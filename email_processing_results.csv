@@ -1,0 +1,6 @@
+email_id,success,classification,response_sent,action_taken,error
+001,True,complaint,True,Flagged for manual review (Processing error),EmailAutomationSystem._handle_complaint() takes 2 positional arguments but 3 were given
+002,True,inquiry,True,Flagged for manual review (Processing error),EmailAutomationSystem._handle_inquiry() takes 2 positional arguments but 3 were given
+003,True,feedback,True,Flagged for manual review (Processing error),EmailAutomationSystem._handle_feedback() takes 2 positional arguments but 3 were given
+004,True,support_request,True,Flagged for manual review (Processing error),EmailAutomationSystem._handle_support_request() takes 2 positional arguments but 3 were given
+005,True,inquiry,True,Flagged for manual review (Processing error),EmailAutomationSystem._handle_inquiry() takes 2 positional arguments but 3 were given
