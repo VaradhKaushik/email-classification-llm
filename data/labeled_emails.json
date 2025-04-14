@@ -1,0 +1,91 @@
+[
+    {
+      "id": "006",
+      "from": "disappointed.buyer@example.com",
+      "subject": "Product not as advertised",
+      "body": "I ordered what was advertised as a high-quality product, but what I received is nothing like it. I'm extremely disappointed and expect a replacement or refund.",
+      "timestamp": "2024-03-16T08:15:00Z",
+      "category": "complaint"
+    },
+    {
+      "id": "007",
+      "from": "inquiring.mind@example.com",
+      "subject": "Warranty duration question",
+      "body": "Could you please confirm how long the warranty lasts for the premium model? I couldn't find clear details on your website.",
+      "timestamp": "2024-03-16T09:30:00Z",
+      "category": "inquiry"
+    },
+    {
+      "id": "008",
+      "from": "satisfied.customer@example.com",
+      "subject": "Loving the new updates",
+      "body": "The recent update made a significant improvement to the user interface. Kudos to the team for making such an impactful change!",
+      "timestamp": "2024-03-16T10:45:00Z",
+      "category": "feedback"
+    },
+    {
+      "id": "009",
+      "from": "techsupport.request@example.com",
+      "subject": "Cannot log into my account",
+      "body": "Every time I try to log in, I receive an unexpected error message. I've reset my password but the issue persists. Please assist me as soon as possible.",
+      "timestamp": "2024-03-16T12:00:00Z",
+      "category": "support_request"
+    },
+    {
+      "id": "010",
+      "from": "media.relations@example.com",
+      "subject": "Media inquiry",
+      "body": "We are a media outlet interested in featuring your company in an upcoming piece. Could you provide a press kit or arrange an interview?",
+      "timestamp": "2024-03-16T13:15:00Z",
+      "category": "other"
+    },
+    {
+      "id": "011",
+      "from": "confused.user@example.com",
+      "subject": "New feature confusion",
+      "body": "The new update seems to have improved performance overall, but I'm having trouble figuring out how to use the advanced search option. Can you clarify how it works?",
+      "timestamp": "2024-03-16T14:30:00Z",
+      "category": "inquiry"
+    },
+    {
+      "id": "012",
+      "from": "brief.note@example.com",
+      "subject": "",
+      "body": "Thanks for the prompt delivery.",
+      "timestamp": "2024-03-16T15:45:00Z",
+      "category": "feedback"
+    },
+    {
+      "id": "013",
+      "from": "unsure.client@example.com",
+      "subject": "Issue and question regarding assembly",
+      "body": "I noticed the packaging was slightly damaged, which worries me about the product quality. Also, I couldn't find clear assembly instructions. Could you provide more details?",
+      "timestamp": "2024-03-16T16:50:00Z",
+      "category": "inquiry"
+    },
+    {
+      "id": "014",
+      "from": "anonymous@example.com",
+      "subject": "",
+      "body": "Need to discuss urgent matters regarding my account.",
+      "timestamp": "2024-03-16T17:05:00Z",
+      "category": "support_request"
+    },
+    {
+      "id": "015",
+      "from": "annoyed@example.com",
+      "subject": "Unacceptable",
+      "body": "Your product sucks.",
+      "timestamp": "2024-03-16T18:10:00Z",
+      "category": "complaint"
+    },
+    {
+        "id": "016",
+        "from": "community.leader@example.org",
+        "subject": "Invitation to the Annual Community Fair",
+        "body": "Hello,\n\nWe are excited to invite you to our Annual Community Fair on April 1st. Join us for a day filled with local crafts, food trucks, and live music. If you're interested in participating as a vendor or volunteer, please let us know at your earliest convenience.\n\nBest regards,\nCommunity Leader",
+        "timestamp": "2024-03-17T12:00:00Z",
+        "category": "other"
+      }
+  ]
+  

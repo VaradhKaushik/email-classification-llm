@@ -1,0 +1,9 @@
+v0:
+    Prompt: "XYZ"
+    Test set accuracy: "80%"
+
+v1:
+    Prompt: "XYZ + ABC"
+    Changelog: what changed and why
+    Test set accuracy: "85%"
+    
